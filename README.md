@@ -1,5 +1,8 @@
 <h1>> Master Resource List</h1>
 
+<h2>OFFICIAL RESOURCES</h2>
+
+- [Official Competition Info Website](https://www2.ncaecybergames.org/)
 
 <h2>System Management</h2>
 
@@ -15,7 +18,7 @@
 
 - [Linux Hint Apache2 Installation/Configuration Guide (Ubuntu 20.04)](https://linuxhint.com/install_apache_web_server_ubuntu/)
 - [Let's Cloud Apache2 Installation/Configuration Guide (Ubuntu 18.04)](https://www.letscloud.io/community/how-to-install-apache-web-server-ubuntu-18-04)
-- [How to Create a *Self-Signed* SSL Certificate](https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-apache-in-ubuntu-16-04)
+- [Installing Certificates in Apache2](https://geekflare.com/apache-setup-ssl-certificate/)
 - [Ubuntu Apache2 Install Documentation](https://ubuntu.com/server/docs/how-to-install-apache2)
 - [Ubuntu Apache2 Configuration Documentation](https://ubuntu.com/server/docs/how-to-configure-apache2-settings)
 
@@ -29,9 +32,9 @@
 - [Linux FTP Server Setup Checklist](https://www.process.st/templates/linux-ftp-server-setup-checklist/#)
 - [Ubuntu Server FTP Documentation](https://ubuntu.com/server/docs/service-ftp)
 
-<h2>MySQL</h2>
+<h2>Database</h2>
 
-- [Ubuntu Server MySQL Documentation](https://ubuntu.com/server/docs/databases-mysql)
+- [PostgreSQL Documentation](https://www.postgresql.org/docs/16/index.html)
 
 <h2>OpenSSH</h2>
 
